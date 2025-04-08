@@ -32,7 +32,10 @@ public class CAT
     public string _litte_fact { get; } = "You have probably ran something i made :D";
 
     public string[] __Into { get; } = new string[] {
-        "C#/.NET", "Authentication", "Obfuscation", "Security Research", "AI Research & Training (For fun)"
+        "C#/.NET", "Authentication",
+        "Obfuscation", "Security Research",
+        "AI Research & Training (For fun)",
+        "Reverse Engineering"
     };
 
     public List<WORK> __Known_Projects { get; } = new List<WORK> {
